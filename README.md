@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🎯 **Full-Stack MERN Developer** | 🚀 **Node.js Backend Enthusiast**</h3>
+<h3 align="left">🎯 **Full-Stack MERN & MEAN Developer** | 🚀 **Node.js Backend Enthusiast**</h3>
 
 ###
 
