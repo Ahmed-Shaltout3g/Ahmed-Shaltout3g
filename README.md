@@ -1,14 +1,13 @@
 <div align="center">
-<h1 align="center">Ahmed Shaltout</h1>
-<p align="center">
-  Software Engineer
+
+# Ahmed Shaltout
+
+### Software Engineer
+
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Frontend+Engineer;Angular+%7C+React;Building+Scalable+Applications;Always+Learning&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Frontend%20Developer;Angular%20%7C%20React;Building%20Scalable%20Systems;Always%20Learning&center=true&width=450&height=45">
-</p>
-
----
 <p>
   <a href="https://ahmed-shaltout.netlify.app">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
@@ -19,172 +18,248 @@
   <a href="mailto:shaltouta477@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://github.com/Ahmed-Shaltout3g">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 </div>
 
+---
+
 ## 👨‍💻 About Me
 
-I’m a Software Engineer with experience building web applications using modern frontend technologies.
+I'm a **Software Engineer** with a strong focus on **frontend engineering**, specializing in **Angular, React, TypeScript, and JavaScript**.
 
-I focus on writing clean, maintainable code and building systems that are scalable and structured.  
-Currently working on enterprise-level applications and continuously improving my problem-solving skills.
+I build scalable and maintainable web applications with a focus on **clean architecture, reusable components, API integration, performance, and user experience**.
 
-- Based in Cairo, Egypt  
-- 2+ years of experience  
-- Interested in software architecture & performance  
-- Passionate about continuous learning  
+Currently, I'm working on an **enterprise travel management platform**, while continuously expanding my knowledge across backend development, Linux, Docker, CI/CD, system design, and open-source development.
+
+* 💻 Frontend & Software Engineering
+* ⚡ Angular & React
+* 🧩 Scalable & reusable architecture
+* 🔌 REST API integration
+* 🐍 Python & backend fundamentals
+* 🐧 Linux & Docker fundamentals
+* 🔄 Git, CI/CD & open-source workflows
 
 ---
-💼 Experience
 
-Frontend / Software Engineer — CodeTech Business Automation
+## 💼 Experience
 
-Nov 2025 – Present
+### Frontend / Software Engineer — CodeTech Business Automation
 
-Working on a large-scale Enterprise Travel Management Platform supporting Admin, Corporate, and Staff users.
+**Nov 2025 – Present**
 
-Develop enterprise applications using Angular, TypeScript, RxJS, and Signals.
+Working on a large-scale **Enterprise Travel Management Platform** supporting Admin, Corporate, and Staff users.
 
-Build reusable components and scalable feature-based architecture.
+**Key responsibilities:**
 
-Implement booking, traveler, wallet, notification, and live-chat workflows.
+* Develop enterprise applications using **Angular, TypeScript, RxJS, and Signals**.
+* Build reusable components and scalable feature-based architecture.
+* Implement booking, traveler, wallet, notification, and live-chat workflows.
+* Integrate RESTful APIs and complex business processes.
+* Build Reactive Forms, routing, guards, interceptors, and lazy-loaded features.
+* Implement English / Arabic localization and RTL support.
+* Collaborate with backend engineers and UI/UX designers using Git and Agile/Scrum.
 
-Integrate RESTful APIs and complex business processes.
+### Freelance Frontend Developer
 
-Build Reactive Forms, routing, guards, interceptors, and lazy-loaded features.
+**Nov 2024 – Present**
 
-Implement English / Arabic localization and RTL support.
+* Delivered web applications using **Angular and React**.
+* Built responsive and reusable UI components.
+* Integrated REST APIs and implemented application workflows.
+* Converted Figma designs and client requirements into production-ready interfaces.
 
-Collaborate with backend engineers and UI/UX designers using Git and Agile/Scrum.
+---
 
-Freelance Frontend Developer
+## 🛠️ Tech Stack
 
-Nov 2024 – Present
+### Frontend
 
-Delivered web applications using Angular and React.
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css" />
+</p>
 
-Built responsive and reusable UI components.
+`Angular` · `React` · `TypeScript` · `JavaScript` · `HTML5` · `CSS3` · `SCSS`
 
-Integrated REST APIs and implemented application workflows.
+### Angular & Architecture
 
-Translated client requirements and Figma designs into production interfaces.
+`Signals` · `RxJS` · `Reactive Forms` · `Standalone Components`
+`Routing` · `Lazy Loading` · `HttpClient` · `Guards` · `Interceptors`
+`Facade Pattern` · `State Management` · `Reusable Components`
+`SOLID Principles` · `Design Patterns`
 
-🛠️ Tech Stack
+### UI / UX
 
-Frontend
+`Bootstrap` · `Tailwind CSS` · `Angular Material` · `Figma`
+`Responsive Design` · `Accessibility` · `Internationalization` · `RTL`
 
-Angular React TypeScript JavaScript HTML5 CSS3 SCSS
+### Backend & Data
 
-Angular & Architecture
+`Python` · `Node.js` · `Express.js` · `REST APIs`
+`MongoDB` · `MySQL` · `JWT` · `JSON`
 
-Signals RxJS Reactive Forms Standalone Components Routing
-Lazy Loading HttpClient Guards Interceptors Facade Pattern
-State Management Reusable Components SOLID Design Patterns
+### Engineering & DevOps
 
-UI / UX
+`Git` · `GitHub` · `Linux` · `Docker` · `Docker Compose`
+`CI/CD` · `GitHub Actions` · `Testing` · `Debugging`
 
-Bootstrap Tailwind CSS Angular Material Figma
-Responsive Design Accessibility RTL Internationalization
+---
 
-Backend & Data
+## 🎓 ITI — Full Stack Web Development Using Python
 
-Python Node.js Express.js REST APIs MongoDB MySQL JWT
+**Information Technology Institute (ITI) — MCIT**
+**Jul 2025 – Nov 2025**
 
-Engineering & DevOps
+Intensive training in **Full Stack Web Development using Python**, covering:
 
-Git GitHub Linux Docker Docker Compose CI/CD
-GitHub Actions API Integration Testing & Debugging
+`Python` · `OOP` · `Data Structures` · `Web Development`
+`REST APIs` · `SQL` · `Databases` · `Git/GitHub` · `Software Engineering`
 
-🎓 ITI — Full Stack Web Development Using Python
+The training strengthened my understanding of backend development, databases, APIs, and how different parts of a software system work together.
 
-Information Technology Institute (ITI) — MCIT
-Jul 2025 – Nov 2025
+---
 
-4-month intensive training focused on Full Stack Web Development using Python, including:
+## 🧰 Engineering Knowledge
 
-Python · OOP · Data Structures · Web Development · REST APIs · SQL · Databases · Git/GitHub · Software Engineering
+### 🐧 Linux
 
-This training strengthened my understanding of software development beyond frontend frameworks and gave me broader exposure to backend development and application architecture.
+Working knowledge of Linux development environments, including:
 
-🐧 Engineering Knowledge
+`CLI` · `File System` · `Permissions` · `Processes`
+`Environment Variables` · `Package Management` · `Development Workflows`
 
-Linux
+### 🐳 Docker
 
-Working knowledge of Linux development environments, CLI, file systems, permissions, processes, environment variables, and development workflows.
+Working knowledge of containerization concepts:
 
-Docker
+`Images` · `Containers` · `Dockerfiles` · `Docker Compose`
+`Volumes` · `Networks` · `Environment Variables`
 
-Knowledge of containerization fundamentals including:
+### 🌍 Open Source
 
-Images · Containers · Dockerfiles · Docker Compose · Volumes · Networks · Environment Variables
+Familiar with modern open-source workflows:
 
-Open Source
-
-Familiar with the open-source development workflow:
-
-GitHub · Issues · Pull Requests · Code Review · Branching · Documentation · Semantic Versioning · CI/CD  · RxJS · System Design · WebSockets
-Docker · Linux · CI/CD · Open Source · Cloud Fundamentals
-
+`GitHub` · `Issues` · `Pull Requests` · `Code Reviews`
+`Branching` · `Documentation` · `Semantic Versioning` · `CI/CD`
 
 Interested in contributing to open-source projects and learning from production codebases.
 
-🚀 Featured Projects
+---
 
-✈️ Enterprise Travel Management Platform
+## 🚀 Featured Projects
 
-Angular · TypeScript · RxJS · Signals · REST APIs
+### ✈️ Enterprise Travel Management Platform
 
-Enterprise platform covering Flights, Hotels, Cab, Train, Cruises, Visa, eSIM, Excursions, Insurance, Holidays, and Concierge.
+**Angular · TypeScript · RxJS · Signals · REST APIs**
 
-Key features include booking workflows, traveler management, wallet, notifications, live chat, advanced search/filtering, pagination, multilingual support, and RTL.
+Enterprise platform covering:
 
-🎓 Education Platform
+`Flights` · `Hotels` · `Cab` · `Train` · `Cruises` · `Visa`
+`eSIM` · `Excursions` · `Insurance` · `Holidays` · `Concierge`
 
-React · JavaScript · REST APIs
+Key features include booking workflows, traveler management, wallet, notifications, live chat, advanced search, filtering, pagination, multilingual support, and RTL.
 
-Freelance education platform with Admin and Teacher dashboards, reusable components, responsive UI, and API integration.
+---
 
-🛒 E-Commerce Platform
+### 🎓 Education Platform
 
-Angular · TypeScript · REST APIs
+**React · JavaScript · REST APIs**
 
-E-commerce application with authentication, products, cart, orders, payment integration, API integration, and English/Arabic RTL support.
+Freelance education platform featuring:
 
-🏠 Real Estate Platform
+* Admin & Teacher dashboards
+* Reusable components
+* Responsive UI
+* REST API integration
+* Dashboard workflows
 
-Graduation Project — A+
+---
 
-Property platform with advertisements, search, filtering, user management, admin approval workflows, categories, and chat.
+### 🛒 E-Commerce Platform
 
-🎓 Education
+**Angular · TypeScript · REST APIs**
 
-Bachelor of Computer Science
-Faculty of Computers and Informatics — Tanta University
-2020 – 2024 · GPA 3.1 — Very Good with Honors
+Features include:
 
-📚 Certifications & Training
+* Authentication
+* Product browsing
+* Cart management
+* Orders
+* Payment integration
+* REST API integration
+* English / Arabic RTL support
 
-ITI — Full Stack Web Development Using Python — 2025 6 months
+---
 
-ITI — Frontend Development Using Angular — 2023
+### 🏠 Real Estate Platform
 
-JavaScript Algorithms & Data Structures — freeCodeCamp
+**Graduation Project — A+**
 
-Responsive Web Design — Mahara Tech
+Real estate platform featuring:
 
+* Property advertisements
+* Search & filtering
+* User management
+* Admin approval workflows
+* Categories
+* User chat
 
+---
 
-##📫 Connect With Me
+## 🎓 Education
 
+### Bachelor of Computer Science
 
+**Faculty of Computers and Informatics — Tanta University**
 
-- LinkedIn: https://www.linkedin.com/in/ahmed-shaltout-frontend
-- Email: shaltouta477@gmail.com
-- Phone: +201208073209
+**2020 – 2024**
+
+GPA: **3.1 — Very Good with Honors**
+
+---
+
+## 📚 Certifications & Training
+
+* **ITI — Full Stack Web Development Using Python** — 2025
+* **ITI — Frontend Development Using Angular** — 2023
+* **JavaScript Algorithms & Data Structures** — freeCodeCamp
+* **Responsive Web Design** — Mahara Tech
+
+---
+
+## 🌱 Currently Exploring
+
+`Advanced Angular` · `RxJS` · `System Design`
+`WebSockets` · `Docker` · `Linux` · `CI/CD`
+`Open Source` · `Cloud Fundamentals`
+
+---
+
+## 📫 Connect With Me
 
 <div align="center">
 
-Build · Learn · Improve · Repeat
+<a href="https://ahmed-shaltout.netlify.app">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge" />
+</a>
+
+<a href="https://www.linkedin.com/in/ahmed-shaltout-frontend">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:shaltouta477@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+**Build · Learn · Improve · Repeat**
 
 </div>
