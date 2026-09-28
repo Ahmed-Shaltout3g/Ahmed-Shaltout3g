@@ -23,14 +23,19 @@
 
 </div>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
-Software Engineer with a strong focus on frontend engineering, specializing in Angular, React, TypeScript, and JavaScript.
+I’m a Software Engineer with experience building web applications using modern frontend technologies.
 
-I have professional experience building enterprise-scale applications, reusable component systems, REST API integrations, reactive state management, and complex business workflows.
+I focus on writing clean, maintainable code and building systems that are scalable and structured.  
+Currently working on enterprise-level applications and continuously improving my problem-solving skills.
 
-I'm also expanding my engineering knowledge across Python, Linux, Docker, CI/CD, system design, and open-source development.
+- Based in Cairo, Egypt  
+- 2+ years of experience  
+- Interested in software architecture & performance  
+- Passionate about continuous learning  
 
+---
 💼 Experience
 
 Frontend / Software Engineer — CodeTech Business Automation
@@ -170,23 +175,13 @@ Responsive Web Design — Mahara Tech
 
 
 
-📫 Connect With Me
+##📫 Connect With Me
 
-<p align="center">
 
-<a href="https://ahmed-shaltout.netlify.app">
-<img src="https://img.shields.io/badge/Portfolio-Visit-111111?style=for-the-badge" />
-</a>
 
-<a href="https://www.linkedin.com/in/ahmed-shaltout-frontend">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:shaltouta477@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+- LinkedIn: https://www.linkedin.com/in/ahmed-shaltout-frontend
+- Email: shaltouta477@gmail.com
+- Phone: +201208073209
 
 <div align="center">
 
