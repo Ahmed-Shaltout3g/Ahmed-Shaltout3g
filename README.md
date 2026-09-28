@@ -240,8 +240,9 @@ GPA: **3.1 — Very Good with Honors**
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: linkedin.com/in/ahmed-shaltout-frontend
-📧 Email: shaltouta477@gmail.com
+- 💼 LinkedIn: linkedin.com/in/ahmed-shaltout-frontend
+- 📧 Email: shaltouta477@gmail.com
+
 
 ---
 
